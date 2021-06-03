@@ -1,0 +1,488 @@
+[
+  {
+    "level": "INFO",
+    "message": "Start JSON generation. Platform version: 16 min SDK version: armeabi-v7a",
+    "file": "D:\\worka\\slef\\ai\\latest\\3.1.13\\Android-SDK@3.1.13.80836_20210517\\UniPlugin-Hello-AS\\uniplugin_module\\src\\main\\jni\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "- CMake found from cmake.dir at \u0027C:\\Users\\admin\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\u0027 had version \u00273.10.2\u0027",
+    "file": "D:\\worka\\slef\\ai\\latest\\3.1.13\\Android-SDK@3.1.13.80836_20210517\\UniPlugin-Hello-AS\\uniplugin_module\\src\\main\\jni\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "rebuilding JSON D:\\worka\\slef\\ai\\latest\\3.1.13\\Android-SDK@3.1.13.80836_20210517\\UniPlugin-Hello-AS\\uniplugin_module\\.cxx\\cmake\\release\\armeabi-v7a\\android_gradle_build.json due to:",
+    "file": "D:\\worka\\slef\\ai\\latest\\3.1.13\\Android-SDK@3.1.13.80836_20210517\\UniPlugin-Hello-AS\\uniplugin_module\\src\\main\\jni\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "- expected json D:\\worka\\slef\\ai\\latest\\3.1.13\\Android-SDK@3.1.13.80836_20210517\\UniPlugin-Hello-AS\\uniplugin_module\\.cxx\\cmake\\release\\armeabi-v7a\\android_gradle_build.json file is not present, will remove stale json folder",
+    "file": "D:\\worka\\slef\\ai\\latest\\3.1.13\\Android-SDK@3.1.13.80836_20210517\\UniPlugin-Hello-AS\\uniplugin_module\\src\\main\\jni\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "- missing previous command file D:\\worka\\slef\\ai\\latest\\3.1.13\\Android-SDK@3.1.13.80836_20210517\\UniPlugin-Hello-AS\\uniplugin_module\\.cxx\\cmake\\release\\armeabi-v7a\\build_command.txt, will remove stale json folder",
+    "file": "D:\\worka\\slef\\ai\\latest\\3.1.13\\Android-SDK@3.1.13.80836_20210517\\UniPlugin-Hello-AS\\uniplugin_module\\src\\main\\jni\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "- command changed from previous, will remove stale json folder",
+    "file": "D:\\worka\\slef\\ai\\latest\\3.1.13\\Android-SDK@3.1.13.80836_20210517\\UniPlugin-Hello-AS\\uniplugin_module\\src\\main\\jni\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "removing stale contents from \u0027D:\\worka\\slef\\ai\\latest\\3.1.13\\Android-SDK@3.1.13.80836_20210517\\UniPlugin-Hello-AS\\uniplugin_module\\.cxx\\cmake\\release\\armeabi-v7a\u0027",
+    "file": "D:\\worka\\slef\\ai\\latest\\3.1.13\\Android-SDK@3.1.13.80836_20210517\\UniPlugin-Hello-AS\\uniplugin_module\\src\\main\\jni\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "created folder \u0027D:\\worka\\slef\\ai\\latest\\3.1.13\\Android-SDK@3.1.13.80836_20210517\\UniPlugin-Hello-AS\\uniplugin_module\\.cxx\\cmake\\release\\armeabi-v7a\u0027",
+    "file": "D:\\worka\\slef\\ai\\latest\\3.1.13\\Android-SDK@3.1.13.80836_20210517\\UniPlugin-Hello-AS\\uniplugin_module\\src\\main\\jni\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "executing cmake Executable : C:\\Users\\admin\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\cmake.exe\narguments : \n-HD:\\worka\\slef\\ai\\latest\\3.1.13\\Android-SDK@3.1.13.80836_20210517\\UniPlugin-Hello-AS\\uniplugin_module\\src\\main\\jni\n-DCMAKE_FIND_ROOT_PATH\u003dD:\\worka\\slef\\ai\\latest\\3.1.13\\Android-SDK@3.1.13.80836_20210517\\UniPlugin-Hello-AS\\uniplugin_module\\.cxx\\cmake\\release\\prefab\\armeabi-v7a\\prefab\n-DCMAKE_BUILD_TYPE\u003dRelease\n-DCMAKE_TOOLCHAIN_FILE\u003dC:\\Users\\admin\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\build\\cmake\\android.toolchain.cmake\n-DANDROID_ABI\u003darmeabi-v7a\n-DANDROID_NDK\u003dC:\\Users\\admin\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\n-DANDROID_PLATFORM\u003dandroid-16\n-DCMAKE_ANDROID_ARCH_ABI\u003darmeabi-v7a\n-DCMAKE_ANDROID_NDK\u003dC:\\Users\\admin\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\n-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\n-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003dD:\\worka\\slef\\ai\\latest\\3.1.13\\Android-SDK@3.1.13.80836_20210517\\UniPlugin-Hello-AS\\uniplugin_module\\build\\intermediates\\cmake\\release\\obj\\armeabi-v7a\n-DCMAKE_MAKE_PROGRAM\u003dC:\\Users\\admin\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe\n-DCMAKE_SYSTEM_NAME\u003dAndroid\n-DCMAKE_SYSTEM_VERSION\u003d16\n-BD:\\worka\\slef\\ai\\latest\\3.1.13\\Android-SDK@3.1.13.80836_20210517\\UniPlugin-Hello-AS\\uniplugin_module\\.cxx\\cmake\\release\\armeabi-v7a\n-GNinja\njvmArgs : \n\n",
+    "file": "D:\\worka\\slef\\ai\\latest\\3.1.13\\Android-SDK@3.1.13.80836_20210517\\UniPlugin-Hello-AS\\uniplugin_module\\src\\main\\jni\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "\n",
+    "file": "D:\\worka\\slef\\ai\\latest\\3.1.13\\Android-SDK@3.1.13.80836_20210517\\UniPlugin-Hello-AS\\uniplugin_module\\src\\main\\jni\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "[\u003d\u003d \"CMake Server\" \u003d\u003d[\n",
+    "file": "D:\\worka\\slef\\ai\\latest\\3.1.13\\Android-SDK@3.1.13.80836_20210517\\UniPlugin-Hello-AS\\uniplugin_module\\src\\main\\jni\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"supportedProtocolVersions\":[{\"isExperimental\":true,\"major\":1,\"minor\":1}],\"type\":\"hello\"}\n",
+    "file": "D:\\worka\\slef\\ai\\latest\\3.1.13\\Android-SDK@3.1.13.80836_20210517\\UniPlugin-Hello-AS\\uniplugin_module\\src\\main\\jni\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "]\u003d\u003d \"CMake Server\" \u003d\u003d]\n",
+    "file": "D:\\worka\\slef\\ai\\latest\\3.1.13\\Android-SDK@3.1.13.80836_20210517\\UniPlugin-Hello-AS\\uniplugin_module\\src\\main\\jni\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\n  \"type\": \"handshake\",\n  \"cookie\": \"gradle-cmake-cookie\",\n  \"protocolVersion\": {\n    \"isExperimental\": true,\n    \"major\": 1,\n    \"minor\": 1\n  },\n  \"sourceDirectory\": \"D:/worka/slef/ai/latest/3.1.13/Android-SDK@3.1.13.80836_20210517/UniPlugin-Hello-AS/uniplugin_module/src/main/jni\",\n  \"buildDirectory\": \"D:/worka/slef/ai/latest/3.1.13/Android-SDK@3.1.13.80836_20210517/UniPlugin-Hello-AS/uniplugin_module/.cxx/cmake/release/armeabi-v7a\",\n  \"generator\": \"Ninja\"\n}\n",
+    "file": "D:\\worka\\slef\\ai\\latest\\3.1.13\\Android-SDK@3.1.13.80836_20210517\\UniPlugin-Hello-AS\\uniplugin_module\\src\\main\\jni\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"gradle-cmake-cookie\",\"inReplyTo\":\"handshake\",\"type\":\"reply\"}\n",
+    "file": "D:\\worka\\slef\\ai\\latest\\3.1.13\\Android-SDK@3.1.13.80836_20210517\\UniPlugin-Hello-AS\\uniplugin_module\\src\\main\\jni\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\n  \"type\": \"configure\",\n  \"cacheArguments\": [\n    \"\",\n    \"-DCMAKE_FIND_ROOT_PATH\\u003dD:\\\\worka\\\\slef\\\\ai\\\\latest\\\\3.1.13\\\\Android-SDK@3.1.13.80836_20210517\\\\UniPlugin-Hello-AS\\\\uniplugin_module\\\\.cxx\\\\cmake\\\\release\\\\prefab\\\\armeabi-v7a\\\\prefab\",\n    \"-DCMAKE_BUILD_TYPE\\u003dRelease\",\n    \"-DCMAKE_TOOLCHAIN_FILE\\u003dC:\\\\Users\\\\admin\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\ndk\\\\21.0.6113669\\\\build\\\\cmake\\\\android.toolchain.cmake\",\n    \"-DANDROID_ABI\\u003darmeabi-v7a\",\n    \"-DANDROID_NDK\\u003dC:\\\\Users\\\\admin\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\ndk\\\\21.0.6113669\",\n    \"-DANDROID_PLATFORM\\u003dandroid-16\",\n    \"-DCMAKE_ANDROID_ARCH_ABI\\u003darmeabi-v7a\",\n    \"-DCMAKE_ANDROID_NDK\\u003dC:\\\\Users\\\\admin\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\ndk\\\\21.0.6113669\",\n    \"-DCMAKE_EXPORT_COMPILE_COMMANDS\\u003dON\",\n    \"-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\\u003dD:\\\\worka\\\\slef\\\\ai\\\\latest\\\\3.1.13\\\\Android-SDK@3.1.13.80836_20210517\\\\UniPlugin-Hello-AS\\\\uniplugin_module\\\\build\\\\intermediates\\\\cmake\\\\release\\\\obj\\\\armeabi-v7a\",\n    \"-DCMAKE_MAKE_PROGRAM\\u003dC:\\\\Users\\\\admin\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\cmake\\\\3.10.2.4988404\\\\bin\\\\ninja.exe\",\n    \"-DCMAKE_SYSTEM_NAME\\u003dAndroid\",\n    \"-DCMAKE_SYSTEM_VERSION\\u003d16\"\n  ]\n}\n",
+    "file": "D:\\worka\\slef\\ai\\latest\\3.1.13\\Android-SDK@3.1.13.80836_20210517\\UniPlugin-Hello-AS\\uniplugin_module\\src\\main\\jni\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Check for working C compiler: C:/Users/admin/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe\",\"type\":\"message\"}\n",
+    "file": "D:\\worka\\slef\\ai\\latest\\3.1.13\\Android-SDK@3.1.13.80836_20210517\\UniPlugin-Hello-AS\\uniplugin_module\\src\\main\\jni\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Check for working C compiler: C:/Users/admin/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe",
+    "file": "D:\\worka\\slef\\ai\\latest\\3.1.13\\Android-SDK@3.1.13.80836_20210517\\UniPlugin-Hello-AS\\uniplugin_module\\src\\main\\jni\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":33,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\worka\\slef\\ai\\latest\\3.1.13\\Android-SDK@3.1.13.80836_20210517\\UniPlugin-Hello-AS\\uniplugin_module\\src\\main\\jni\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Check for working C compiler: C:/Users/admin/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe -- works\",\"type\":\"message\"}\n",
+    "file": "D:\\worka\\slef\\ai\\latest\\3.1.13\\Android-SDK@3.1.13.80836_20210517\\UniPlugin-Hello-AS\\uniplugin_module\\src\\main\\jni\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Check for working C compiler: C:/Users/admin/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe -- works",
+    "file": "D:\\worka\\slef\\ai\\latest\\3.1.13\\Android-SDK@3.1.13.80836_20210517\\UniPlugin-Hello-AS\\uniplugin_module\\src\\main\\jni\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting C compiler ABI info\",\"type\":\"message\"}\n",
+    "file": "D:\\worka\\slef\\ai\\latest\\3.1.13\\Android-SDK@3.1.13.80836_20210517\\UniPlugin-Hello-AS\\uniplugin_module\\src\\main\\jni\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting C compiler ABI info",
+    "file": "D:\\worka\\slef\\ai\\latest\\3.1.13\\Android-SDK@3.1.13.80836_20210517\\UniPlugin-Hello-AS\\uniplugin_module\\src\\main\\jni\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":65,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\worka\\slef\\ai\\latest\\3.1.13\\Android-SDK@3.1.13.80836_20210517\\UniPlugin-Hello-AS\\uniplugin_module\\src\\main\\jni\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting C compiler ABI info - done\",\"type\":\"message\"}\n",
+    "file": "D:\\worka\\slef\\ai\\latest\\3.1.13\\Android-SDK@3.1.13.80836_20210517\\UniPlugin-Hello-AS\\uniplugin_module\\src\\main\\jni\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting C compiler ABI info - done",
+    "file": "D:\\worka\\slef\\ai\\latest\\3.1.13\\Android-SDK@3.1.13.80836_20210517\\UniPlugin-Hello-AS\\uniplugin_module\\src\\main\\jni\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting C compile features\",\"type\":\"message\"}\n",
+    "file": "D:\\worka\\slef\\ai\\latest\\3.1.13\\Android-SDK@3.1.13.80836_20210517\\UniPlugin-Hello-AS\\uniplugin_module\\src\\main\\jni\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting C compile features",
+    "file": "D:\\worka\\slef\\ai\\latest\\3.1.13\\Android-SDK@3.1.13.80836_20210517\\UniPlugin-Hello-AS\\uniplugin_module\\src\\main\\jni\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":96,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\worka\\slef\\ai\\latest\\3.1.13\\Android-SDK@3.1.13.80836_20210517\\UniPlugin-Hello-AS\\uniplugin_module\\src\\main\\jni\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":126,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\worka\\slef\\ai\\latest\\3.1.13\\Android-SDK@3.1.13.80836_20210517\\UniPlugin-Hello-AS\\uniplugin_module\\src\\main\\jni\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":155,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\worka\\slef\\ai\\latest\\3.1.13\\Android-SDK@3.1.13.80836_20210517\\UniPlugin-Hello-AS\\uniplugin_module\\src\\main\\jni\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting C compile features - done\",\"type\":\"message\"}\n",
+    "file": "D:\\worka\\slef\\ai\\latest\\3.1.13\\Android-SDK@3.1.13.80836_20210517\\UniPlugin-Hello-AS\\uniplugin_module\\src\\main\\jni\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting C compile features - done",
+    "file": "D:\\worka\\slef\\ai\\latest\\3.1.13\\Android-SDK@3.1.13.80836_20210517\\UniPlugin-Hello-AS\\uniplugin_module\\src\\main\\jni\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Check for working CXX compiler: C:/Users/admin/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe\",\"type\":\"message\"}\n",
+    "file": "D:\\worka\\slef\\ai\\latest\\3.1.13\\Android-SDK@3.1.13.80836_20210517\\UniPlugin-Hello-AS\\uniplugin_module\\src\\main\\jni\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Check for working CXX compiler: C:/Users/admin/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe",
+    "file": "D:\\worka\\slef\\ai\\latest\\3.1.13\\Android-SDK@3.1.13.80836_20210517\\UniPlugin-Hello-AS\\uniplugin_module\\src\\main\\jni\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":184,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\worka\\slef\\ai\\latest\\3.1.13\\Android-SDK@3.1.13.80836_20210517\\UniPlugin-Hello-AS\\uniplugin_module\\src\\main\\jni\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Check for working CXX compiler: C:/Users/admin/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -- works\",\"type\":\"message\"}\n",
+    "file": "D:\\worka\\slef\\ai\\latest\\3.1.13\\Android-SDK@3.1.13.80836_20210517\\UniPlugin-Hello-AS\\uniplugin_module\\src\\main\\jni\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Check for working CXX compiler: C:/Users/admin/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -- works",
+    "file": "D:\\worka\\slef\\ai\\latest\\3.1.13\\Android-SDK@3.1.13.80836_20210517\\UniPlugin-Hello-AS\\uniplugin_module\\src\\main\\jni\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting CXX compiler ABI info\",\"type\":\"message\"}\n",
+    "file": "D:\\worka\\slef\\ai\\latest\\3.1.13\\Android-SDK@3.1.13.80836_20210517\\UniPlugin-Hello-AS\\uniplugin_module\\src\\main\\jni\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting CXX compiler ABI info",
+    "file": "D:\\worka\\slef\\ai\\latest\\3.1.13\\Android-SDK@3.1.13.80836_20210517\\UniPlugin-Hello-AS\\uniplugin_module\\src\\main\\jni\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":211,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\worka\\slef\\ai\\latest\\3.1.13\\Android-SDK@3.1.13.80836_20210517\\UniPlugin-Hello-AS\\uniplugin_module\\src\\main\\jni\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting CXX compiler ABI info - done\",\"type\":\"message\"}\n",
+    "file": "D:\\worka\\slef\\ai\\latest\\3.1.13\\Android-SDK@3.1.13.80836_20210517\\UniPlugin-Hello-AS\\uniplugin_module\\src\\main\\jni\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting CXX compiler ABI info - done",
+    "file": "D:\\worka\\slef\\ai\\latest\\3.1.13\\Android-SDK@3.1.13.80836_20210517\\UniPlugin-Hello-AS\\uniplugin_module\\src\\main\\jni\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting CXX compile features\",\"type\":\"message\"}\n",
+    "file": "D:\\worka\\slef\\ai\\latest\\3.1.13\\Android-SDK@3.1.13.80836_20210517\\UniPlugin-Hello-AS\\uniplugin_module\\src\\main\\jni\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting CXX compile features",
+    "file": "D:\\worka\\slef\\ai\\latest\\3.1.13\\Android-SDK@3.1.13.80836_20210517\\UniPlugin-Hello-AS\\uniplugin_module\\src\\main\\jni\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":237,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\worka\\slef\\ai\\latest\\3.1.13\\Android-SDK@3.1.13.80836_20210517\\UniPlugin-Hello-AS\\uniplugin_module\\src\\main\\jni\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":262,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\worka\\slef\\ai\\latest\\3.1.13\\Android-SDK@3.1.13.80836_20210517\\UniPlugin-Hello-AS\\uniplugin_module\\src\\main\\jni\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":287,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\worka\\slef\\ai\\latest\\3.1.13\\Android-SDK@3.1.13.80836_20210517\\UniPlugin-Hello-AS\\uniplugin_module\\src\\main\\jni\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":311,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\worka\\slef\\ai\\latest\\3.1.13\\Android-SDK@3.1.13.80836_20210517\\UniPlugin-Hello-AS\\uniplugin_module\\src\\main\\jni\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting CXX compile features - done\",\"type\":\"message\"}\n",
+    "file": "D:\\worka\\slef\\ai\\latest\\3.1.13\\Android-SDK@3.1.13.80836_20210517\\UniPlugin-Hello-AS\\uniplugin_module\\src\\main\\jni\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting CXX compile features - done",
+    "file": "D:\\worka\\slef\\ai\\latest\\3.1.13\\Android-SDK@3.1.13.80836_20210517\\UniPlugin-Hello-AS\\uniplugin_module\\src\\main\\jni\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":334,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\worka\\slef\\ai\\latest\\3.1.13\\Android-SDK@3.1.13.80836_20210517\\UniPlugin-Hello-AS\\uniplugin_module\\src\\main\\jni\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":356,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\worka\\slef\\ai\\latest\\3.1.13\\Android-SDK@3.1.13.80836_20210517\\UniPlugin-Hello-AS\\uniplugin_module\\src\\main\\jni\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":377,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\worka\\slef\\ai\\latest\\3.1.13\\Android-SDK@3.1.13.80836_20210517\\UniPlugin-Hello-AS\\uniplugin_module\\src\\main\\jni\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Found OpenMP_C: -fopenmp\u003dlibomp (found version \\\"3.1\\\") \",\"type\":\"message\"}\n",
+    "file": "D:\\worka\\slef\\ai\\latest\\3.1.13\\Android-SDK@3.1.13.80836_20210517\\UniPlugin-Hello-AS\\uniplugin_module\\src\\main\\jni\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Found OpenMP_C: -fopenmp\u003dlibomp (found version \"3.1\") ",
+    "file": "D:\\worka\\slef\\ai\\latest\\3.1.13\\Android-SDK@3.1.13.80836_20210517\\UniPlugin-Hello-AS\\uniplugin_module\\src\\main\\jni\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":398,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\worka\\slef\\ai\\latest\\3.1.13\\Android-SDK@3.1.13.80836_20210517\\UniPlugin-Hello-AS\\uniplugin_module\\src\\main\\jni\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Found OpenMP_CXX: -fopenmp\u003dlibomp (found version \\\"3.1\\\") \",\"type\":\"message\"}\n",
+    "file": "D:\\worka\\slef\\ai\\latest\\3.1.13\\Android-SDK@3.1.13.80836_20210517\\UniPlugin-Hello-AS\\uniplugin_module\\src\\main\\jni\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Found OpenMP_CXX: -fopenmp\u003dlibomp (found version \"3.1\") ",
+    "file": "D:\\worka\\slef\\ai\\latest\\3.1.13\\Android-SDK@3.1.13.80836_20210517\\UniPlugin-Hello-AS\\uniplugin_module\\src\\main\\jni\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Found OpenMP: TRUE (found version \\\"3.1\\\")  \",\"type\":\"message\"}\n",
+    "file": "D:\\worka\\slef\\ai\\latest\\3.1.13\\Android-SDK@3.1.13.80836_20210517\\UniPlugin-Hello-AS\\uniplugin_module\\src\\main\\jni\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Found OpenMP: TRUE (found version \"3.1\")  ",
+    "file": "D:\\worka\\slef\\ai\\latest\\3.1.13\\Android-SDK@3.1.13.80836_20210517\\UniPlugin-Hello-AS\\uniplugin_module\\src\\main\\jni\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Looking for pthread.h\",\"type\":\"message\"}\n",
+    "file": "D:\\worka\\slef\\ai\\latest\\3.1.13\\Android-SDK@3.1.13.80836_20210517\\UniPlugin-Hello-AS\\uniplugin_module\\src\\main\\jni\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Looking for pthread.h",
+    "file": "D:\\worka\\slef\\ai\\latest\\3.1.13\\Android-SDK@3.1.13.80836_20210517\\UniPlugin-Hello-AS\\uniplugin_module\\src\\main\\jni\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":418,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\worka\\slef\\ai\\latest\\3.1.13\\Android-SDK@3.1.13.80836_20210517\\UniPlugin-Hello-AS\\uniplugin_module\\src\\main\\jni\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Looking for pthread.h - found\",\"type\":\"message\"}\n",
+    "file": "D:\\worka\\slef\\ai\\latest\\3.1.13\\Android-SDK@3.1.13.80836_20210517\\UniPlugin-Hello-AS\\uniplugin_module\\src\\main\\jni\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Looking for pthread.h - found",
+    "file": "D:\\worka\\slef\\ai\\latest\\3.1.13\\Android-SDK@3.1.13.80836_20210517\\UniPlugin-Hello-AS\\uniplugin_module\\src\\main\\jni\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Looking for pthread_create\",\"type\":\"message\"}\n",
+    "file": "D:\\worka\\slef\\ai\\latest\\3.1.13\\Android-SDK@3.1.13.80836_20210517\\UniPlugin-Hello-AS\\uniplugin_module\\src\\main\\jni\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Looking for pthread_create",
+    "file": "D:\\worka\\slef\\ai\\latest\\3.1.13\\Android-SDK@3.1.13.80836_20210517\\UniPlugin-Hello-AS\\uniplugin_module\\src\\main\\jni\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":438,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\worka\\slef\\ai\\latest\\3.1.13\\Android-SDK@3.1.13.80836_20210517\\UniPlugin-Hello-AS\\uniplugin_module\\src\\main\\jni\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Looking for pthread_create - found\",\"type\":\"message\"}\n",
+    "file": "D:\\worka\\slef\\ai\\latest\\3.1.13\\Android-SDK@3.1.13.80836_20210517\\UniPlugin-Hello-AS\\uniplugin_module\\src\\main\\jni\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Looking for pthread_create - found",
+    "file": "D:\\worka\\slef\\ai\\latest\\3.1.13\\Android-SDK@3.1.13.80836_20210517\\UniPlugin-Hello-AS\\uniplugin_module\\src\\main\\jni\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Found Threads: TRUE  \",\"type\":\"message\"}\n",
+    "file": "D:\\worka\\slef\\ai\\latest\\3.1.13\\Android-SDK@3.1.13.80836_20210517\\UniPlugin-Hello-AS\\uniplugin_module\\src\\main\\jni\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Found Threads: TRUE  ",
+    "file": "D:\\worka\\slef\\ai\\latest\\3.1.13\\Android-SDK@3.1.13.80836_20210517\\UniPlugin-Hello-AS\\uniplugin_module\\src\\main\\jni\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"CMake Error at C:/Users/admin/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/FindPackageHandleStandardArgs.cmake:137 (message):\\n  Could NOT find Vulkan (missing: Vulkan_LIBRARY)\\nCall Stack (most recent call first):\\n  C:/Users/admin/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/FindPackageHandleStandardArgs.cmake:378 (_FPHSA_FAILURE_MESSAGE)\\n  C:/Users/admin/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/FindVulkan.cmake:69 (find_package_handle_standard_args)\\n  ncnn-20201218-android-vulkan/armeabi-v7a/lib/cmake/ncnn/ncnnConfig.cmake:18 (find_package)\\n  CMakeLists.txt:6 (find_package)\\n\\n\",\"title\":\"Error\",\"type\":\"message\"}\n",
+    "file": "D:\\worka\\slef\\ai\\latest\\3.1.13\\Android-SDK@3.1.13.80836_20210517\\UniPlugin-Hello-AS\\uniplugin_module\\src\\main\\jni\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "ERROR",
+    "message": "CMake Error at C:/Users/admin/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/FindPackageHandleStandardArgs.cmake:137 (message):\r\n  Could NOT find Vulkan (missing: Vulkan_LIBRARY)\r\nCall Stack (most recent call first):\r\n  C:/Users/admin/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/FindPackageHandleStandardArgs.cmake:378 (_FPHSA_FAILURE_MESSAGE)\r\n  C:/Users/admin/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/FindVulkan.cmake:69 (find_package_handle_standard_args)\r\n  ncnn-20201218-android-vulkan/armeabi-v7a/lib/cmake/ncnn/ncnnConfig.cmake:18 (find_package)\r\n  CMakeLists.txt:6 (find_package)\r\n",
+    "file": "D:\\worka\\slef\\ai\\latest\\3.1.13\\Android-SDK@3.1.13.80836_20210517\\UniPlugin-Hello-AS\\uniplugin_module\\src\\main\\jni\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":1000,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\worka\\slef\\ai\\latest\\3.1.13\\Android-SDK@3.1.13.80836_20210517\\UniPlugin-Hello-AS\\uniplugin_module\\src\\main\\jni\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Configuring incomplete, errors occurred!\\nSee also \\\"D:/worka/slef/ai/latest/3.1.13/Android-SDK@3.1.13.80836_20210517/UniPlugin-Hello-AS/uniplugin_module/.cxx/cmake/release/armeabi-v7a/CMakeFiles/CMakeOutput.log\\\".\",\"type\":\"message\"}\n",
+    "file": "D:\\worka\\slef\\ai\\latest\\3.1.13\\Android-SDK@3.1.13.80836_20210517\\UniPlugin-Hello-AS\\uniplugin_module\\src\\main\\jni\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Configuring incomplete, errors occurred!\r\nSee also \"D:/worka/slef/ai/latest/3.1.13/Android-SDK@3.1.13.80836_20210517/UniPlugin-Hello-AS/uniplugin_module/.cxx/cmake/release/armeabi-v7a/CMakeFiles/CMakeOutput.log\".",
+    "file": "D:\\worka\\slef\\ai\\latest\\3.1.13\\Android-SDK@3.1.13.80836_20210517\\UniPlugin-Hello-AS\\uniplugin_module\\src\\main\\jni\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"errorMessage\":\"Configuration failed.\",\"inReplyTo\":\"configure\",\"type\":\"error\"}\n",
+    "file": "D:\\worka\\slef\\ai\\latest\\3.1.13\\Android-SDK@3.1.13.80836_20210517\\UniPlugin-Hello-AS\\uniplugin_module\\src\\main\\jni\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "ERROR",
+    "message": "Configuration failed.",
+    "file": "D:\\worka\\slef\\ai\\latest\\3.1.13\\Android-SDK@3.1.13.80836_20210517\\UniPlugin-Hello-AS\\uniplugin_module\\src\\main\\jni\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "JSON generation completed with problem. Exception: com.android.ide.common.process.ProcessException: Error configuring CMake server (C:\\Users\\admin\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin).\r\nCheck for working C compiler: C:/Users/admin/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe\nCheck for working C compiler: C:/Users/admin/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe -- works\nDetecting C compiler ABI info\nDetecting C compiler ABI info - done\nDetecting C compile features\nDetecting C compile features - done\nCheck for working CXX compiler: C:/Users/admin/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe\nCheck for working CXX compiler: C:/Users/admin/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -- works\nDetecting CXX compiler ABI info\nDetecting CXX compiler ABI info - done\nDetecting CXX compile features\nDetecting CXX compile features - done\nFound OpenMP_C: -fopenmp\u003dlibomp (found version \"3.1\") \nFound OpenMP_CXX: -fopenmp\u003dlibomp (found version \"3.1\") \nFound OpenMP: TRUE (found version \"3.1\")  \nLooking for pthread.h\nLooking for pthread.h - found\nLooking for pthread_create\nLooking for pthread_create - found\nFound Threads: TRUE  \nCMake Error at C:/Users/admin/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/FindPackageHandleStandardArgs.cmake:137 (message):\n  Could NOT find Vulkan (missing: Vulkan_LIBRARY)\nCall Stack (most recent call first):\n  C:/Users/admin/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/FindPackageHandleStandardArgs.cmake:378 (_FPHSA_FAILURE_MESSAGE)\n  C:/Users/admin/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/FindVulkan.cmake:69 (find_package_handle_standard_args)\n  ncnn-20201218-android-vulkan/armeabi-v7a/lib/cmake/ncnn/ncnnConfig.cmake:18 (find_package)\n  CMakeLists.txt:6 (find_package)\n\n\nConfiguring incomplete, errors occurred!\nSee also \"D:/worka/slef/ai/latest/3.1.13/Android-SDK@3.1.13.80836_20210517/UniPlugin-Hello-AS/uniplugin_module/.cxx/cmake/release/armeabi-v7a/CMakeFiles/CMakeOutput.log\".\n",
+    "file": "D:\\worka\\slef\\ai\\latest\\3.1.13\\Android-SDK@3.1.13.80836_20210517\\UniPlugin-Hello-AS\\uniplugin_module\\src\\main\\jni\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  }
+]

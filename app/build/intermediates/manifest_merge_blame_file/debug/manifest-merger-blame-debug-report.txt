@@ -1,0 +1,417 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.HBuilder.UniPlugin"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->D:\worka\slef\ai\latest\3.1.13\Android-SDK@3.1.13.80836_20210517\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="26" />
+9-->D:\worka\slef\ai\latest\3.1.13\Android-SDK@3.1.13.80836_20210517\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml
+10
+11    <supports-screens
+11-->D:\worka\slef\ai\latest\3.1.13\Android-SDK@3.1.13.80836_20210517\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:5:5-10:39
+12        android:anyDensity="true"
+12-->D:\worka\slef\ai\latest\3.1.13\Android-SDK@3.1.13.80836_20210517\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:6:9-34
+13        android:largeScreens="true"
+13-->D:\worka\slef\ai\latest\3.1.13\Android-SDK@3.1.13.80836_20210517\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:7:9-36
+14        android:normalScreens="true"
+14-->D:\worka\slef\ai\latest\3.1.13\Android-SDK@3.1.13.80836_20210517\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:8:9-37
+15        android:resizeable="true"
+15-->D:\worka\slef\ai\latest\3.1.13\Android-SDK@3.1.13.80836_20210517\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:9:9-34
+16        android:smallScreens="true" /> <!-- Barcode(二维码)  begin -->
+16-->D:\worka\slef\ai\latest\3.1.13\Android-SDK@3.1.13.80836_20210517\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:10:9-36
+17    <uses-permission android:name="android.permission.CAMERA" />
+17-->D:\worka\slef\ai\latest\3.1.13\Android-SDK@3.1.13.80836_20210517\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:11:5-65
+17-->D:\worka\slef\ai\latest\3.1.13\Android-SDK@3.1.13.80836_20210517\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:11:22-62
+18    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+18-->D:\worka\slef\ai\latest\3.1.13\Android-SDK@3.1.13.80836_20210517\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:12:5-81
+18-->D:\worka\slef\ai\latest\3.1.13\Android-SDK@3.1.13.80836_20210517\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:12:22-78
+19
+20    <uses-feature android:name="android.hardware.camera" />
+20-->D:\worka\slef\ai\latest\3.1.13\Android-SDK@3.1.13.80836_20210517\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:14:5-60
+20-->D:\worka\slef\ai\latest\3.1.13\Android-SDK@3.1.13.80836_20210517\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:14:19-57
+21    <uses-feature android:name="android.hardware.camera.autofocus" />
+21-->D:\worka\slef\ai\latest\3.1.13\Android-SDK@3.1.13.80836_20210517\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:15:5-70
+21-->D:\worka\slef\ai\latest\3.1.13\Android-SDK@3.1.13.80836_20210517\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:15:19-67
+22
+23    <uses-permission android:name="android.permission.VIBRATE" />
+23-->D:\worka\slef\ai\latest\3.1.13\Android-SDK@3.1.13.80836_20210517\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:17:5-66
+23-->D:\worka\slef\ai\latest\3.1.13\Android-SDK@3.1.13.80836_20210517\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:17:22-63
+24    <uses-permission android:name="android.permission.FLASHLIGHT" />
+24-->D:\worka\slef\ai\latest\3.1.13\Android-SDK@3.1.13.80836_20210517\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:18:5-69
+24-->D:\worka\slef\ai\latest\3.1.13\Android-SDK@3.1.13.80836_20210517\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:18:22-66
+25    <uses-permission android:name="android.permission.INTERNET" />
+25-->[lib.5plus.base-release.aar] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\4cfb0d4c1ba4c4ab2cdf03e5ac7189cb\lib.5plus.base-release\AndroidManifest.xml:17:5-67
+25-->[lib.5plus.base-release.aar] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\4cfb0d4c1ba4c4ab2cdf03e5ac7189cb\lib.5plus.base-release\AndroidManifest.xml:17:22-64
+26    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+26-->[lib.5plus.base-release.aar] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\4cfb0d4c1ba4c4ab2cdf03e5ac7189cb\lib.5plus.base-release\AndroidManifest.xml:18:5-79
+26-->[lib.5plus.base-release.aar] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\4cfb0d4c1ba4c4ab2cdf03e5ac7189cb\lib.5plus.base-release\AndroidManifest.xml:18:22-76
+27    <!--
+28    <uses-permission
+29        android:name="com.android.launcher.permission.UNINSTALL_SHORTCUT" />
+30    -->
+31    <!-- 华为修改角标需要设置权限 -->
+32    <uses-permission android:name="com.huawei.android.launcher.permission.CHANGE_BADGE" /> <!-- vivo 修改角标需要设置权限 -->
+32-->[lib.5plus.base-release.aar] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\4cfb0d4c1ba4c4ab2cdf03e5ac7189cb\lib.5plus.base-release\AndroidManifest.xml:24:5-91
+32-->[lib.5plus.base-release.aar] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\4cfb0d4c1ba4c4ab2cdf03e5ac7189cb\lib.5plus.base-release\AndroidManifest.xml:24:22-88
+33    <uses-permission android:name="com.vivo.notification.permission.BADGE_ICON" />
+33-->[lib.5plus.base-release.aar] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\4cfb0d4c1ba4c4ab2cdf03e5ac7189cb\lib.5plus.base-release\AndroidManifest.xml:26:5-83
+33-->[lib.5plus.base-release.aar] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\4cfb0d4c1ba4c4ab2cdf03e5ac7189cb\lib.5plus.base-release\AndroidManifest.xml:26:22-80
+34
+35    <queries>
+35-->[lib.5plus.base-release.aar] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\4cfb0d4c1ba4c4ab2cdf03e5ac7189cb\lib.5plus.base-release\AndroidManifest.xml:28:5-32:15
+36        <intent>
+36-->[lib.5plus.base-release.aar] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\4cfb0d4c1ba4c4ab2cdf03e5ac7189cb\lib.5plus.base-release\AndroidManifest.xml:29:9-31:18
+37            <action android:name="android.intent.action.MAIN" />
+37-->D:\worka\slef\ai\latest\3.1.13\Android-SDK@3.1.13.80836_20210517\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:55:17-69
+37-->D:\worka\slef\ai\latest\3.1.13\Android-SDK@3.1.13.80836_20210517\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:55:25-66
+38        </intent>
+39    </queries>
+40
+41    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+42    <uses-permission android:name="com.asus.msa.SupplementaryDID.ACCESS" />
+42-->[oaid_sdk_1.0.25.aar] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\f1a46bd3509370298ae00307f9bc755f\oaid_sdk_1.0.25\AndroidManifest.xml:13:5-76
+42-->[oaid_sdk_1.0.25.aar] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\f1a46bd3509370298ae00307f9bc755f\oaid_sdk_1.0.25\AndroidManifest.xml:13:22-73
+43    <uses-permission android:name="freemme.permission.msa" />
+43-->[oaid_sdk_1.0.25.aar] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\f1a46bd3509370298ae00307f9bc755f\oaid_sdk_1.0.25\AndroidManifest.xml:15:5-62
+43-->[oaid_sdk_1.0.25.aar] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\f1a46bd3509370298ae00307f9bc755f\oaid_sdk_1.0.25\AndroidManifest.xml:15:22-59
+44
+45    <application
+45-->D:\worka\slef\ai\latest\3.1.13\Android-SDK@3.1.13.80836_20210517\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:20:5-97:19
+46        android:name="io.dcloud.application.DCloudApplication"
+46-->D:\worka\slef\ai\latest\3.1.13\Android-SDK@3.1.13.80836_20210517\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:21:9-63
+47        android:allowBackup="true"
+47-->D:\worka\slef\ai\latest\3.1.13\Android-SDK@3.1.13.80836_20210517\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:22:9-35
+48        android:allowClearUserData="true"
+48-->D:\worka\slef\ai\latest\3.1.13\Android-SDK@3.1.13.80836_20210517\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:23:9-42
+49        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
+49-->[com.android.support:support-compat:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\2a6c121eda6c2cbe33230f54b72bbbd4\support-compat-28.0.0\AndroidManifest.xml:22:18-91
+50        android:debuggable="true"
+50-->D:\worka\slef\ai\latest\3.1.13\Android-SDK@3.1.13.80836_20210517\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:24:9-34
+51        android:icon="@drawable/icon"
+51-->D:\worka\slef\ai\latest\3.1.13\Android-SDK@3.1.13.80836_20210517\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:25:9-38
+52        android:label="@string/app_name"
+52-->D:\worka\slef\ai\latest\3.1.13\Android-SDK@3.1.13.80836_20210517\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:26:9-41
+53        android:largeHeap="true"
+53-->D:\worka\slef\ai\latest\3.1.13\Android-SDK@3.1.13.80836_20210517\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:27:9-33
+54        android:supportsRtl="true"
+54-->D:\worka\slef\ai\latest\3.1.13\Android-SDK@3.1.13.80836_20210517\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:28:9-35
+55        android:testOnly="true"
+56        android:usesCleartextTraffic="true" >
+56-->[lib.5plus.base-release.aar] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\4cfb0d4c1ba4c4ab2cdf03e5ac7189cb\lib.5plus.base-release\AndroidManifest.xml:167:9-44
+57        <activity
+57-->D:\worka\slef\ai\latest\3.1.13\Android-SDK@3.1.13.80836_20210517\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:29:9-31:68
+58            android:name="com.HBuilder.UniPlugin.MainActivity"
+58-->D:\worka\slef\ai\latest\3.1.13\Android-SDK@3.1.13.80836_20210517\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:30:13-41
+59            android:label="@string/title_activity_main" />
+59-->D:\worka\slef\ai\latest\3.1.13\Android-SDK@3.1.13.80836_20210517\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:31:13-56
+60        <!-- 应用入口 -->
+61        <activity
+61-->D:\worka\slef\ai\latest\3.1.13\Android-SDK@3.1.13.80836_20210517\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:33:9-59:20
+62            android:name="io.dcloud.PandoraEntry"
+62-->D:\worka\slef\ai\latest\3.1.13\Android-SDK@3.1.13.80836_20210517\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:34:13-50
+63            android:configChanges="orientation|keyboardHidden|screenSize|mcc|mnc|fontScale"
+63-->D:\worka\slef\ai\latest\3.1.13\Android-SDK@3.1.13.80836_20210517\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:35:13-92
+64            android:hardwareAccelerated="true"
+64-->D:\worka\slef\ai\latest\3.1.13\Android-SDK@3.1.13.80836_20210517\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:36:13-47
+65            android:theme="@style/TranslucentTheme"
+65-->D:\worka\slef\ai\latest\3.1.13\Android-SDK@3.1.13.80836_20210517\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:37:13-52
+66            android:windowSoftInputMode="adjustResize" >
+66-->D:\worka\slef\ai\latest\3.1.13\Android-SDK@3.1.13.80836_20210517\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:38:13-55
+67            <intent-filter>
+67-->D:\worka\slef\ai\latest\3.1.13\Android-SDK@3.1.13.80836_20210517\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:39:13-46:29
+68                <data android:scheme="hbuilder" />
+68-->D:\worka\slef\ai\latest\3.1.13\Android-SDK@3.1.13.80836_20210517\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:40:17-51
+68-->D:\worka\slef\ai\latest\3.1.13\Android-SDK@3.1.13.80836_20210517\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:40:23-48
+69
+70                <action android:name="android.intent.action.VIEW" />
+70-->D:\worka\slef\ai\latest\3.1.13\Android-SDK@3.1.13.80836_20210517\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:42:17-69
+70-->D:\worka\slef\ai\latest\3.1.13\Android-SDK@3.1.13.80836_20210517\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:42:25-66
+71
+72                <category android:name="android.intent.category.DEFAULT" />
+72-->D:\worka\slef\ai\latest\3.1.13\Android-SDK@3.1.13.80836_20210517\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:44:17-76
+72-->D:\worka\slef\ai\latest\3.1.13\Android-SDK@3.1.13.80836_20210517\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:44:27-73
+73                <category android:name="android.intent.category.BROWSABLE" />
+73-->D:\worka\slef\ai\latest\3.1.13\Android-SDK@3.1.13.80836_20210517\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:45:17-78
+73-->D:\worka\slef\ai\latest\3.1.13\Android-SDK@3.1.13.80836_20210517\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:45:27-75
+74            </intent-filter>
+75            <intent-filter>
+75-->D:\worka\slef\ai\latest\3.1.13\Android-SDK@3.1.13.80836_20210517\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:47:13-53:29
+76                <data android:mimeType="image/*" />
+76-->D:\worka\slef\ai\latest\3.1.13\Android-SDK@3.1.13.80836_20210517\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:40:17-51
+76-->D:\worka\slef\ai\latest\3.1.13\Android-SDK@3.1.13.80836_20210517\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:48:23-49
+77
+78                <action android:name="android.intent.action.SEND" />
+78-->D:\worka\slef\ai\latest\3.1.13\Android-SDK@3.1.13.80836_20210517\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:50:17-69
+78-->D:\worka\slef\ai\latest\3.1.13\Android-SDK@3.1.13.80836_20210517\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:50:25-66
+79
+80                <category android:name="android.intent.category.DEFAULT" />
+80-->D:\worka\slef\ai\latest\3.1.13\Android-SDK@3.1.13.80836_20210517\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:44:17-76
+80-->D:\worka\slef\ai\latest\3.1.13\Android-SDK@3.1.13.80836_20210517\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:44:27-73
+81            </intent-filter>
+82            <intent-filter>
+82-->D:\worka\slef\ai\latest\3.1.13\Android-SDK@3.1.13.80836_20210517\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:54:13-58:29
+83                <action android:name="android.intent.action.MAIN" />
+83-->D:\worka\slef\ai\latest\3.1.13\Android-SDK@3.1.13.80836_20210517\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:55:17-69
+83-->D:\worka\slef\ai\latest\3.1.13\Android-SDK@3.1.13.80836_20210517\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:55:25-66
+84
+85                <category android:name="android.intent.category.LAUNCHER" />
+85-->D:\worka\slef\ai\latest\3.1.13\Android-SDK@3.1.13.80836_20210517\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:57:17-77
+85-->D:\worka\slef\ai\latest\3.1.13\Android-SDK@3.1.13.80836_20210517\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:57:27-74
+86            </intent-filter>
+87        </activity>
+88
+89        <meta-data
+89-->D:\worka\slef\ai\latest\3.1.13\Android-SDK@3.1.13.80836_20210517\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:61:9-63:36
+90            android:name="dcloud_uninview_background"
+90-->D:\worka\slef\ai\latest\3.1.13\Android-SDK@3.1.13.80836_20210517\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:62:13-54
+91            android:value="true" />
+91-->D:\worka\slef\ai\latest\3.1.13\Android-SDK@3.1.13.80836_20210517\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:63:13-33
+92
+93        <activity
+93-->D:\worka\slef\ai\latest\3.1.13\Android-SDK@3.1.13.80836_20210517\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:65:9-82:20
+94            android:name="io.dcloud.PandoraEntryActivity"
+94-->D:\worka\slef\ai\latest\3.1.13\Android-SDK@3.1.13.80836_20210517\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:66:13-58
+95            android:configChanges="orientation|keyboardHidden|screenSize|mcc|mnc|fontScale|keyboard"
+95-->D:\worka\slef\ai\latest\3.1.13\Android-SDK@3.1.13.80836_20210517\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:67:13-101
+96            android:hardwareAccelerated="true"
+96-->D:\worka\slef\ai\latest\3.1.13\Android-SDK@3.1.13.80836_20210517\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:68:13-47
+97            android:launchMode="singleTask"
+97-->D:\worka\slef\ai\latest\3.1.13\Android-SDK@3.1.13.80836_20210517\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:69:13-44
+98            android:permission="com.miui.securitycenter.permission.AppPermissionsEditor"
+98-->D:\worka\slef\ai\latest\3.1.13\Android-SDK@3.1.13.80836_20210517\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:70:13-89
+99            android:screenOrientation="user"
+99-->D:\worka\slef\ai\latest\3.1.13\Android-SDK@3.1.13.80836_20210517\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:71:13-45
+100            android:theme="@style/DCloudTheme"
+100-->D:\worka\slef\ai\latest\3.1.13\Android-SDK@3.1.13.80836_20210517\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:72:13-47
+101            android:windowSoftInputMode="adjustResize" >
+101-->D:\worka\slef\ai\latest\3.1.13\Android-SDK@3.1.13.80836_20210517\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:73:13-55
+102            <intent-filter>
+102-->D:\worka\slef\ai\latest\3.1.13\Android-SDK@3.1.13.80836_20210517\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:74:13-81:29
+103                <category android:name="android.intent.category.DEFAULT" />
+103-->D:\worka\slef\ai\latest\3.1.13\Android-SDK@3.1.13.80836_20210517\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:44:17-76
+103-->D:\worka\slef\ai\latest\3.1.13\Android-SDK@3.1.13.80836_20210517\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:44:27-73
+104                <category android:name="android.intent.category.BROWSABLE" />
+104-->D:\worka\slef\ai\latest\3.1.13\Android-SDK@3.1.13.80836_20210517\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:45:17-78
+104-->D:\worka\slef\ai\latest\3.1.13\Android-SDK@3.1.13.80836_20210517\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:45:27-75
+105
+106                <action android:name="android.intent.action.VIEW" />
+106-->D:\worka\slef\ai\latest\3.1.13\Android-SDK@3.1.13.80836_20210517\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:42:17-69
+106-->D:\worka\slef\ai\latest\3.1.13\Android-SDK@3.1.13.80836_20210517\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:42:25-66
+107
+108                <data android:scheme="h56131bcf" />
+108-->D:\worka\slef\ai\latest\3.1.13\Android-SDK@3.1.13.80836_20210517\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:40:17-51
+108-->D:\worka\slef\ai\latest\3.1.13\Android-SDK@3.1.13.80836_20210517\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:40:23-48
+109            </intent-filter>
+110        </activity>
+111
+112        <provider
+112-->D:\worka\slef\ai\latest\3.1.13\Android-SDK@3.1.13.80836_20210517\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:84:9-92:20
+113            android:name="io.dcloud.common.util.DCloud_FileProvider"
+113-->D:\worka\slef\ai\latest\3.1.13\Android-SDK@3.1.13.80836_20210517\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:85:13-69
+114            android:authorities="com.HBuilder.UniPlugin.dc.fileprovider"
+114-->D:\worka\slef\ai\latest\3.1.13\Android-SDK@3.1.13.80836_20210517\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:86:13-73
+115            android:exported="false"
+115-->D:\worka\slef\ai\latest\3.1.13\Android-SDK@3.1.13.80836_20210517\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:87:13-37
+116            android:grantUriPermissions="true" >
+116-->D:\worka\slef\ai\latest\3.1.13\Android-SDK@3.1.13.80836_20210517\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:88:13-47
+117            <meta-data
+117-->D:\worka\slef\ai\latest\3.1.13\Android-SDK@3.1.13.80836_20210517\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:89:13-91:64
+118                android:name="android.support.FILE_PROVIDER_PATHS"
+118-->D:\worka\slef\ai\latest\3.1.13\Android-SDK@3.1.13.80836_20210517\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:90:17-67
+119                android:resource="@xml/dcloud_file_provider" />
+119-->D:\worka\slef\ai\latest\3.1.13\Android-SDK@3.1.13.80836_20210517\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:91:17-61
+120        </provider>
+121
+122        <meta-data
+122-->D:\worka\slef\ai\latest\3.1.13\Android-SDK@3.1.13.80836_20210517\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:94:9-96:64
+123            android:name="dcloud_appkey"
+123-->D:\worka\slef\ai\latest\3.1.13\Android-SDK@3.1.13.80836_20210517\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:95:13-41
+124            android:value="821c750b7a4cf7f828532b01ba70b05a" />
+124-->D:\worka\slef\ai\latest\3.1.13\Android-SDK@3.1.13.80836_20210517\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:96:13-61
+125
+126        <service
+126-->[lib.5plus.base-release.aar] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\4cfb0d4c1ba4c4ab2cdf03e5ac7189cb\lib.5plus.base-release\AndroidManifest.xml:168:9-170:40
+127            android:name="io.dcloud.common.adapter.io.MiniServerService"
+127-->[lib.5plus.base-release.aar] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\4cfb0d4c1ba4c4ab2cdf03e5ac7189cb\lib.5plus.base-release\AndroidManifest.xml:169:13-73
+128            android:exported="false" />
+128-->[lib.5plus.base-release.aar] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\4cfb0d4c1ba4c4ab2cdf03e5ac7189cb\lib.5plus.base-release\AndroidManifest.xml:170:13-37
+129
+130        <receiver
+130-->[lib.5plus.base-release.aar] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\4cfb0d4c1ba4c4ab2cdf03e5ac7189cb\lib.5plus.base-release\AndroidManifest.xml:172:9-178:20
+131            android:name="io.dcloud.common.adapter.io.PushReceiver"
+131-->[lib.5plus.base-release.aar] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\4cfb0d4c1ba4c4ab2cdf03e5ac7189cb\lib.5plus.base-release\AndroidManifest.xml:173:13-68
+132            android:exported="false" >
+132-->[lib.5plus.base-release.aar] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\4cfb0d4c1ba4c4ab2cdf03e5ac7189cb\lib.5plus.base-release\AndroidManifest.xml:174:13-37
+133            <intent-filter>
+133-->[lib.5plus.base-release.aar] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\4cfb0d4c1ba4c4ab2cdf03e5ac7189cb\lib.5plus.base-release\AndroidManifest.xml:175:13-177:29
+134                <action android:name="dcloud.push.broswer" />
+134-->[lib.5plus.base-release.aar] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\4cfb0d4c1ba4c4ab2cdf03e5ac7189cb\lib.5plus.base-release\AndroidManifest.xml:176:17-62
+134-->[lib.5plus.base-release.aar] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\4cfb0d4c1ba4c4ab2cdf03e5ac7189cb\lib.5plus.base-release\AndroidManifest.xml:176:25-59
+135            </intent-filter>
+136        </receiver>
+137
+138        <activity
+138-->[lib.5plus.base-release.aar] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\4cfb0d4c1ba4c4ab2cdf03e5ac7189cb\lib.5plus.base-release\AndroidManifest.xml:180:9-183:40
+139            android:name="io.dcloud.imagepick.CustomGalleryActivity"
+139-->[lib.5plus.base-release.aar] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\4cfb0d4c1ba4c4ab2cdf03e5ac7189cb\lib.5plus.base-release\AndroidManifest.xml:181:13-69
+140            android:exported="false"
+140-->[lib.5plus.base-release.aar] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\4cfb0d4c1ba4c4ab2cdf03e5ac7189cb\lib.5plus.base-release\AndroidManifest.xml:182:13-37
+141            android:noHistory="true" />
+141-->[lib.5plus.base-release.aar] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\4cfb0d4c1ba4c4ab2cdf03e5ac7189cb\lib.5plus.base-release\AndroidManifest.xml:183:13-37
+142        <activity
+142-->[lib.5plus.base-release.aar] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\4cfb0d4c1ba4c4ab2cdf03e5ac7189cb\lib.5plus.base-release\AndroidManifest.xml:184:9-188:58
+143            android:name="io.dcloud.feature.nativeObj.photoview.PhotoActivity"
+143-->[lib.5plus.base-release.aar] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\4cfb0d4c1ba4c4ab2cdf03e5ac7189cb\lib.5plus.base-release\AndroidManifest.xml:185:13-79
+144            android:exported="false"
+144-->[lib.5plus.base-release.aar] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\4cfb0d4c1ba4c4ab2cdf03e5ac7189cb\lib.5plus.base-release\AndroidManifest.xml:186:13-37
+145            android:noHistory="false"
+145-->[lib.5plus.base-release.aar] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\4cfb0d4c1ba4c4ab2cdf03e5ac7189cb\lib.5plus.base-release\AndroidManifest.xml:187:13-38
+146            android:theme="@style/DeviceDefault.Light" />
+146-->[lib.5plus.base-release.aar] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\4cfb0d4c1ba4c4ab2cdf03e5ac7189cb\lib.5plus.base-release\AndroidManifest.xml:188:13-55
+147        <activity
+147-->[lib.5plus.base-release.aar] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\4cfb0d4c1ba4c4ab2cdf03e5ac7189cb\lib.5plus.base-release\AndroidManifest.xml:189:9-199:58
+148            android:name="io.dcloud.WebAppActivity"
+148-->[lib.5plus.base-release.aar] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\4cfb0d4c1ba4c4ab2cdf03e5ac7189cb\lib.5plus.base-release\AndroidManifest.xml:190:13-52
+149            android:configChanges="orientation|keyboardHidden|screenSize|mcc|mnc|fontScale"
+149-->[lib.5plus.base-release.aar] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\4cfb0d4c1ba4c4ab2cdf03e5ac7189cb\lib.5plus.base-release\AndroidManifest.xml:191:13-92
+150            android:hardwareAccelerated="true"
+150-->[lib.5plus.base-release.aar] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\4cfb0d4c1ba4c4ab2cdf03e5ac7189cb\lib.5plus.base-release\AndroidManifest.xml:192:13-47
+151            android:icon="@drawable/dcloud_recent"
+151-->[lib.5plus.base-release.aar] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\4cfb0d4c1ba4c4ab2cdf03e5ac7189cb\lib.5plus.base-release\AndroidManifest.xml:193:13-51
+152            android:label="@string/stream_my"
+152-->[lib.5plus.base-release.aar] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\4cfb0d4c1ba4c4ab2cdf03e5ac7189cb\lib.5plus.base-release\AndroidManifest.xml:194:13-46
+153            android:launchMode="singleTask"
+153-->[lib.5plus.base-release.aar] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\4cfb0d4c1ba4c4ab2cdf03e5ac7189cb\lib.5plus.base-release\AndroidManifest.xml:195:13-44
+154            android:screenOrientation="portrait"
+154-->[lib.5plus.base-release.aar] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\4cfb0d4c1ba4c4ab2cdf03e5ac7189cb\lib.5plus.base-release\AndroidManifest.xml:196:13-49
+155            android:taskAffinity=":stream"
+155-->[lib.5plus.base-release.aar] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\4cfb0d4c1ba4c4ab2cdf03e5ac7189cb\lib.5plus.base-release\AndroidManifest.xml:197:13-43
+156            android:theme="@style/DCloudTheme"
+156-->[lib.5plus.base-release.aar] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\4cfb0d4c1ba4c4ab2cdf03e5ac7189cb\lib.5plus.base-release\AndroidManifest.xml:198:13-47
+157            android:windowSoftInputMode="adjustResize" />
+157-->[lib.5plus.base-release.aar] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\4cfb0d4c1ba4c4ab2cdf03e5ac7189cb\lib.5plus.base-release\AndroidManifest.xml:199:13-55
+158        <activity
+158-->[lib.5plus.base-release.aar] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\4cfb0d4c1ba4c4ab2cdf03e5ac7189cb\lib.5plus.base-release\AndroidManifest.xml:200:9-205:75
+159            android:name="io.dcloud.ProcessMediator"
+159-->[lib.5plus.base-release.aar] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\4cfb0d4c1ba4c4ab2cdf03e5ac7189cb\lib.5plus.base-release\AndroidManifest.xml:201:13-53
+160            android:excludeFromRecents="true"
+160-->[lib.5plus.base-release.aar] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\4cfb0d4c1ba4c4ab2cdf03e5ac7189cb\lib.5plus.base-release\AndroidManifest.xml:202:13-46
+161            android:exported="false"
+161-->[lib.5plus.base-release.aar] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\4cfb0d4c1ba4c4ab2cdf03e5ac7189cb\lib.5plus.base-release\AndroidManifest.xml:203:13-37
+162            android:launchMode="singleTop"
+162-->[lib.5plus.base-release.aar] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\4cfb0d4c1ba4c4ab2cdf03e5ac7189cb\lib.5plus.base-release\AndroidManifest.xml:204:13-43
+163            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+163-->[lib.5plus.base-release.aar] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\4cfb0d4c1ba4c4ab2cdf03e5ac7189cb\lib.5plus.base-release\AndroidManifest.xml:205:13-72
+164        <activity
+164-->[lib.5plus.base-release.aar] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\4cfb0d4c1ba4c4ab2cdf03e5ac7189cb\lib.5plus.base-release\AndroidManifest.xml:206:9-212:20
+165            android:name="io.dcloud.WebviewActivity"
+165-->[lib.5plus.base-release.aar] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\4cfb0d4c1ba4c4ab2cdf03e5ac7189cb\lib.5plus.base-release\AndroidManifest.xml:207:13-53
+166            android:exported="false"
+166-->[lib.5plus.base-release.aar] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\4cfb0d4c1ba4c4ab2cdf03e5ac7189cb\lib.5plus.base-release\AndroidManifest.xml:208:13-37
+167            android:screenOrientation="portrait"
+167-->[lib.5plus.base-release.aar] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\4cfb0d4c1ba4c4ab2cdf03e5ac7189cb\lib.5plus.base-release\AndroidManifest.xml:209:13-49
+168            android:theme="@style/ThemeNoTitleBar"
+168-->[lib.5plus.base-release.aar] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\4cfb0d4c1ba4c4ab2cdf03e5ac7189cb\lib.5plus.base-release\AndroidManifest.xml:210:13-51
+169            android:windowSoftInputMode="adjustPan" >
+169-->[lib.5plus.base-release.aar] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\4cfb0d4c1ba4c4ab2cdf03e5ac7189cb\lib.5plus.base-release\AndroidManifest.xml:211:13-52
+170        </activity>
+171
+172        <receiver
+172-->[lib.5plus.base-release.aar] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\4cfb0d4c1ba4c4ab2cdf03e5ac7189cb\lib.5plus.base-release\AndroidManifest.xml:214:9-225:20
+173            android:name="io.dcloud.common.adapter.io.DownloadReceiver"
+173-->[lib.5plus.base-release.aar] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\4cfb0d4c1ba4c4ab2cdf03e5ac7189cb\lib.5plus.base-release\AndroidManifest.xml:215:13-72
+174            android:exported="false" >
+174-->[lib.5plus.base-release.aar] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\4cfb0d4c1ba4c4ab2cdf03e5ac7189cb\lib.5plus.base-release\AndroidManifest.xml:216:13-37
+175            <intent-filter>
+175-->[lib.5plus.base-release.aar] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\4cfb0d4c1ba4c4ab2cdf03e5ac7189cb\lib.5plus.base-release\AndroidManifest.xml:217:13-219:29
+176                <action android:name="android.intent.action.DOWNLOAD_COMPLETE" />
+176-->[lib.5plus.base-release.aar] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\4cfb0d4c1ba4c4ab2cdf03e5ac7189cb\lib.5plus.base-release\AndroidManifest.xml:218:17-82
+176-->[lib.5plus.base-release.aar] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\4cfb0d4c1ba4c4ab2cdf03e5ac7189cb\lib.5plus.base-release\AndroidManifest.xml:218:25-79
+177            </intent-filter>
+178            <intent-filter>
+178-->[lib.5plus.base-release.aar] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\4cfb0d4c1ba4c4ab2cdf03e5ac7189cb\lib.5plus.base-release\AndroidManifest.xml:220:13-224:29
+179                <action android:name="android.intent.action.PACKAGE_ADDED" />
+179-->[lib.5plus.base-release.aar] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\4cfb0d4c1ba4c4ab2cdf03e5ac7189cb\lib.5plus.base-release\AndroidManifest.xml:221:17-78
+179-->[lib.5plus.base-release.aar] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\4cfb0d4c1ba4c4ab2cdf03e5ac7189cb\lib.5plus.base-release\AndroidManifest.xml:221:25-75
+180
+181                <data android:scheme="package" /> <!-- HERE! -->
+181-->D:\worka\slef\ai\latest\3.1.13\Android-SDK@3.1.13.80836_20210517\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:40:17-51
+181-->D:\worka\slef\ai\latest\3.1.13\Android-SDK@3.1.13.80836_20210517\UniPlugin-Hello-AS\app\src\main\AndroidManifest.xml:40:23-48
+182            </intent-filter>
+183        </receiver> <!-- gallery******start -->
+184        <activity
+184-->[lib.5plus.base-release.aar] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\4cfb0d4c1ba4c4ab2cdf03e5ac7189cb\lib.5plus.base-release\AndroidManifest.xml:228:9-232:63
+185            android:name="com.dmcbig.mediapicker.PickerActivity"
+185-->[lib.5plus.base-release.aar] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\4cfb0d4c1ba4c4ab2cdf03e5ac7189cb\lib.5plus.base-release\AndroidManifest.xml:229:13-65
+186            android:configChanges="orientation|screenSize"
+186-->[lib.5plus.base-release.aar] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\4cfb0d4c1ba4c4ab2cdf03e5ac7189cb\lib.5plus.base-release\AndroidManifest.xml:230:13-59
+187            android:theme="@style/DeviceDefault.Light"
+187-->[lib.5plus.base-release.aar] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\4cfb0d4c1ba4c4ab2cdf03e5ac7189cb\lib.5plus.base-release\AndroidManifest.xml:231:13-55
+188            android:windowSoftInputMode="stateAlwaysHidden" />
+188-->[lib.5plus.base-release.aar] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\4cfb0d4c1ba4c4ab2cdf03e5ac7189cb\lib.5plus.base-release\AndroidManifest.xml:232:13-60
+189        <activity
+189-->[lib.5plus.base-release.aar] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\4cfb0d4c1ba4c4ab2cdf03e5ac7189cb\lib.5plus.base-release\AndroidManifest.xml:233:9-237:63
+190            android:name="com.dmcbig.mediapicker.PreviewActivity"
+190-->[lib.5plus.base-release.aar] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\4cfb0d4c1ba4c4ab2cdf03e5ac7189cb\lib.5plus.base-release\AndroidManifest.xml:234:13-66
+191            android:configChanges="orientation|screenSize"
+191-->[lib.5plus.base-release.aar] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\4cfb0d4c1ba4c4ab2cdf03e5ac7189cb\lib.5plus.base-release\AndroidManifest.xml:235:13-59
+192            android:theme="@style/DeviceDefault.Light"
+192-->[lib.5plus.base-release.aar] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\4cfb0d4c1ba4c4ab2cdf03e5ac7189cb\lib.5plus.base-release\AndroidManifest.xml:236:13-55
+193            android:windowSoftInputMode="stateAlwaysHidden" /> <!-- gallery******end -->
+193-->[lib.5plus.base-release.aar] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\4cfb0d4c1ba4c4ab2cdf03e5ac7189cb\lib.5plus.base-release\AndroidManifest.xml:237:13-60
+194        <!--
+195        <provider
+196            android:name="io.dcloud.common.util.DCloud_FileProvider"
+197            android:authorities="${apk.applicationId}.dc.fileprovider"
+198            android:exported="false"
+199            android:grantUriPermissions="true">
+200            <meta-data
+201                android:name="android.support.FILE_PROVIDER_PATHS"
+202                android:resource="@xml/dcloud_file_provider" />
+203        </provider>
+204        -->
+205        <!--
+206            <meta-data
+207            android:name="DCLOUD_STREAMAPP_CHANNEL"
+208            android:value="io.dcloud.%APPID%|%APPID%|" />
+209        -->
+210        <meta-data
+210-->[lib.5plus.base-release.aar] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\4cfb0d4c1ba4c4ab2cdf03e5ac7189cb\lib.5plus.base-release\AndroidManifest.xml:258:9-260:35
+211            android:name="android.max_aspect"
+211-->[lib.5plus.base-release.aar] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\4cfb0d4c1ba4c4ab2cdf03e5ac7189cb\lib.5plus.base-release\AndroidManifest.xml:259:13-46
+212            android:value="2.4" />
+212-->[lib.5plus.base-release.aar] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\4cfb0d4c1ba4c4ab2cdf03e5ac7189cb\lib.5plus.base-release\AndroidManifest.xml:260:13-32
+213
+214        <activity
+214-->[lib.5plus.base-release.aar] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\4cfb0d4c1ba4c4ab2cdf03e5ac7189cb\lib.5plus.base-release\AndroidManifest.xml:262:9-266:63
+215            android:name="io.dcloud.feature.gallery.imageedit.IMGEditActivity"
+215-->[lib.5plus.base-release.aar] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\4cfb0d4c1ba4c4ab2cdf03e5ac7189cb\lib.5plus.base-release\AndroidManifest.xml:263:13-79
+216            android:configChanges="orientation|keyboardHidden|screenSize"
+216-->[lib.5plus.base-release.aar] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\4cfb0d4c1ba4c4ab2cdf03e5ac7189cb\lib.5plus.base-release\AndroidManifest.xml:264:13-74
+217            android:theme="@style/ImageEditTheme"
+217-->[lib.5plus.base-release.aar] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\4cfb0d4c1ba4c4ab2cdf03e5ac7189cb\lib.5plus.base-release\AndroidManifest.xml:265:13-50
+218            android:windowSoftInputMode="stateAlwaysHidden" />
+218-->[lib.5plus.base-release.aar] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\4cfb0d4c1ba4c4ab2cdf03e5ac7189cb\lib.5plus.base-release\AndroidManifest.xml:266:13-60
+219
+220        <receiver
+220-->[uniapp-v8-release.aar] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\bdff46602ade903eb3c8dbb0e2d4e248\uniapp-v8-release\AndroidManifest.xml:30:9-34:20
+221            android:name="com.taobao.weex.WXGlobalEventReceiver"
+221-->[uniapp-v8-release.aar] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\bdff46602ade903eb3c8dbb0e2d4e248\uniapp-v8-release\AndroidManifest.xml:31:13-65
+222            android:enabled="true"
+222-->[uniapp-v8-release.aar] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\bdff46602ade903eb3c8dbb0e2d4e248\uniapp-v8-release\AndroidManifest.xml:32:13-35
+223            android:exported="false" >
+223-->[uniapp-v8-release.aar] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\bdff46602ade903eb3c8dbb0e2d4e248\uniapp-v8-release\AndroidManifest.xml:33:13-37
+224        </receiver>
+225
+226        <activity
+226-->[:DetectionModule] D:\worka\slef\ai\latest\3.1.13\Android-SDK@3.1.13.80836_20210517\UniPlugin-Hello-AS\DetectionModule\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:9-14:84
+227            android:name="com.tencent.yolov5ncnn.NativePageActivity"
+227-->[:DetectionModule] D:\worka\slef\ai\latest\3.1.13\Android-SDK@3.1.13.80836_20210517\UniPlugin-Hello-AS\DetectionModule\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-69
+228            android:theme="@android:style/Theme.DeviceDefault.Light.NoActionBar" />
+228-->[:DetectionModule] D:\worka\slef\ai\latest\3.1.13\Android-SDK@3.1.13.80836_20210517\UniPlugin-Hello-AS\DetectionModule\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:13-81
+229    </application>
+230
+231</manifest>

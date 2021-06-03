@@ -1,0 +1,68 @@
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"supportedProtocolVersions":[{"isExperimental":true,"major":1,"minor":1}],"type":"hello"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: Not a directory: D:\worka\slef\ai\latest\3.1.13\Android-SDK@3.1.13.80836_20210517\UniPlugin-Hello-AS\app\src\main\jni
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {
+  "type": "handshake",
+  "cookie": "gradle-cmake-cookie",
+  "protocolVersion": {
+    "isExperimental": true,
+    "major": 1,
+    "minor": 1
+  },
+  "sourceDirectory": "D:/worka/slef/ai/latest/3.1.13/Android-SDK@3.1.13.80836_20210517/UniPlugin-Hello-AS/app/src/main/jni",
+  "buildDirectory": "D:/worka/slef/ai/latest/3.1.13/Android-SDK@3.1.13.80836_20210517/UniPlugin-Hello-AS/app/.cxx/cmake/debug/x86",
+  "generator": "Ninja"
+}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"gradle-cmake-cookie","errorMessage":"Failed to activate protocol version: \"sourceDirectory\" is not a directory.","inReplyTo":"handshake","type":"error"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: Failed to activate protocol version: "sourceDirectory" is not a directory.
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {
+  "type": "configure",
+  "cacheArguments": [
+    "",
+    "-DCMAKE_FIND_ROOT_PATH\u003dD:\\worka\\slef\\ai\\latest\\3.1.13\\Android-SDK@3.1.13.80836_20210517\\UniPlugin-Hello-AS\\app\\.cxx\\cmake\\debug\\prefab\\x86\\prefab",
+    "-DCMAKE_BUILD_TYPE\u003dDebug",
+    "-DCMAKE_TOOLCHAIN_FILE\u003dC:\\Users\\admin\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\build\\cmake\\android.toolchain.cmake",
+    "-DANDROID_ABI\u003dx86",
+    "-DANDROID_NDK\u003dC:\\Users\\admin\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669",
+    "-DANDROID_PLATFORM\u003dandroid-21",
+    "-DCMAKE_ANDROID_ARCH_ABI\u003dx86",
+    "-DCMAKE_ANDROID_NDK\u003dC:\\Users\\admin\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669",
+    "-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON",
+    "-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003dD:\\worka\\slef\\ai\\latest\\3.1.13\\Android-SDK@3.1.13.80836_20210517\\UniPlugin-Hello-AS\\app\\build\\intermediates\\cmake\\debug\\obj\\x86",
+    "-DCMAKE_MAKE_PROGRAM\u003dC:\\Users\\admin\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+    "-DCMAKE_SYSTEM_NAME\u003dAndroid",
+    "-DCMAKE_SYSTEM_VERSION\u003d21"
+  ]
+}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","errorMessage":"Waiting for type \"handshake\".","inReplyTo":"configure","type":"error"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: Waiting for type "handshake".

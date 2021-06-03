@@ -1,0 +1,45 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\worka\slef\ai\latest\3.1.13\Android-SDK@3.1.13.80836_20210517\UniPlugin-Hello-AS\DetectionModule\src\main\AndroidManifest.xml:1:1-7:12
+INJECTED from D:\worka\slef\ai\latest\3.1.13\Android-SDK@3.1.13.80836_20210517\UniPlugin-Hello-AS\DetectionModule\src\main\AndroidManifest.xml:1:1-7:12
+INJECTED from D:\worka\slef\ai\latest\3.1.13\Android-SDK@3.1.13.80836_20210517\UniPlugin-Hello-AS\DetectionModule\src\main\AndroidManifest.xml:1:1-7:12
+INJECTED from D:\worka\slef\ai\latest\3.1.13\Android-SDK@3.1.13.80836_20210517\UniPlugin-Hello-AS\DetectionModule\src\main\AndroidManifest.xml:1:1-7:12
+INJECTED from D:\worka\slef\ai\latest\3.1.13\Android-SDK@3.1.13.80836_20210517\UniPlugin-Hello-AS\DetectionModule\src\main\AndroidManifest.xml:1:1-7:12
+INJECTED from D:\worka\slef\ai\latest\3.1.13\Android-SDK@3.1.13.80836_20210517\UniPlugin-Hello-AS\DetectionModule\src\main\AndroidManifest.xml:1:1-7:12
+INJECTED from D:\worka\slef\ai\latest\3.1.13\Android-SDK@3.1.13.80836_20210517\UniPlugin-Hello-AS\DetectionModule\src\main\AndroidManifest.xml:1:1-7:12
+	package
+		ADDED from D:\worka\slef\ai\latest\3.1.13\Android-SDK@3.1.13.80836_20210517\UniPlugin-Hello-AS\DetectionModule\src\main\AndroidManifest.xml:2:5-45
+		INJECTED from D:\worka\slef\ai\latest\3.1.13\Android-SDK@3.1.13.80836_20210517\UniPlugin-Hello-AS\DetectionModule\src\main\AndroidManifest.xml
+		INJECTED from D:\worka\slef\ai\latest\3.1.13\Android-SDK@3.1.13.80836_20210517\UniPlugin-Hello-AS\DetectionModule\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\worka\slef\ai\latest\3.1.13\Android-SDK@3.1.13.80836_20210517\UniPlugin-Hello-AS\DetectionModule\src\main\AndroidManifest.xml
+		ADDED from D:\worka\slef\ai\latest\3.1.13\Android-SDK@3.1.13.80836_20210517\UniPlugin-Hello-AS\DetectionModule\src\main\AndroidManifest.xml:1:1-7:12
+		INJECTED from D:\worka\slef\ai\latest\3.1.13\Android-SDK@3.1.13.80836_20210517\UniPlugin-Hello-AS\DetectionModule\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\worka\slef\ai\latest\3.1.13\Android-SDK@3.1.13.80836_20210517\UniPlugin-Hello-AS\DetectionModule\src\main\AndroidManifest.xml
+		ADDED from D:\worka\slef\ai\latest\3.1.13\Android-SDK@3.1.13.80836_20210517\UniPlugin-Hello-AS\DetectionModule\src\main\AndroidManifest.xml:1:1-7:12
+		INJECTED from D:\worka\slef\ai\latest\3.1.13\Android-SDK@3.1.13.80836_20210517\UniPlugin-Hello-AS\DetectionModule\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\worka\slef\ai\latest\3.1.13\Android-SDK@3.1.13.80836_20210517\UniPlugin-Hello-AS\DetectionModule\src\main\AndroidManifest.xml:1:11-69
+application
+ADDED from D:\worka\slef\ai\latest\3.1.13\Android-SDK@3.1.13.80836_20210517\UniPlugin-Hello-AS\DetectionModule\src\main\AndroidManifest.xml:3:1-6:15
+activity#com.tencent.yolov5ncnn.NativePageActivity
+ADDED from D:\worka\slef\ai\latest\3.1.13\Android-SDK@3.1.13.80836_20210517\UniPlugin-Hello-AS\DetectionModule\src\main\AndroidManifest.xml:4:1-5:85
+	android:theme
+		ADDED from D:\worka\slef\ai\latest\3.1.13\Android-SDK@3.1.13.80836_20210517\UniPlugin-Hello-AS\DetectionModule\src\main\AndroidManifest.xml:5:5-73
+	android:name
+		ADDED from D:\worka\slef\ai\latest\3.1.13\Android-SDK@3.1.13.80836_20210517\UniPlugin-Hello-AS\DetectionModule\src\main\AndroidManifest.xml:4:11-67
+uses-sdk
+INJECTED from D:\worka\slef\ai\latest\3.1.13\Android-SDK@3.1.13.80836_20210517\UniPlugin-Hello-AS\DetectionModule\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\worka\slef\ai\latest\3.1.13\Android-SDK@3.1.13.80836_20210517\UniPlugin-Hello-AS\DetectionModule\src\main\AndroidManifest.xml
+INJECTED from D:\worka\slef\ai\latest\3.1.13\Android-SDK@3.1.13.80836_20210517\UniPlugin-Hello-AS\DetectionModule\src\main\AndroidManifest.xml
+INJECTED from D:\worka\slef\ai\latest\3.1.13\Android-SDK@3.1.13.80836_20210517\UniPlugin-Hello-AS\DetectionModule\src\main\AndroidManifest.xml
+INJECTED from D:\worka\slef\ai\latest\3.1.13\Android-SDK@3.1.13.80836_20210517\UniPlugin-Hello-AS\DetectionModule\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\worka\slef\ai\latest\3.1.13\Android-SDK@3.1.13.80836_20210517\UniPlugin-Hello-AS\DetectionModule\src\main\AndroidManifest.xml
+		ADDED from D:\worka\slef\ai\latest\3.1.13\Android-SDK@3.1.13.80836_20210517\UniPlugin-Hello-AS\DetectionModule\src\main\AndroidManifest.xml
+		INJECTED from D:\worka\slef\ai\latest\3.1.13\Android-SDK@3.1.13.80836_20210517\UniPlugin-Hello-AS\DetectionModule\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\worka\slef\ai\latest\3.1.13\Android-SDK@3.1.13.80836_20210517\UniPlugin-Hello-AS\DetectionModule\src\main\AndroidManifest.xml
+		ADDED from D:\worka\slef\ai\latest\3.1.13\Android-SDK@3.1.13.80836_20210517\UniPlugin-Hello-AS\DetectionModule\src\main\AndroidManifest.xml
+		INJECTED from D:\worka\slef\ai\latest\3.1.13\Android-SDK@3.1.13.80836_20210517\UniPlugin-Hello-AS\DetectionModule\src\main\AndroidManifest.xml

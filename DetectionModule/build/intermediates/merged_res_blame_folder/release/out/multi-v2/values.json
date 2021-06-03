@@ -1,0 +1,86 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\worka\\slef\\ai\\latest\\3.1.13\\Android-SDK@3.1.13.80836_20210517\\UniPlugin-Hello-AS\\DetectionModule\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "D:\\worka\\slef\\ai\\latest\\3.1.13\\Android-SDK@3.1.13.80836_20210517\\UniPlugin-Hello-AS\\DetectionModule\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "17",
+                        "endColumns": "56",
+                        "endOffsets": "69"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "56",
+                        "endOffsets": "107"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-2\\files-2.1\\bbb4860045a017a8fa8f7962fab1adac\\drawee-1.13.0\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "2,141",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,6070",
+                        "endLines": "140,231",
+                        "endColumns": "22,22",
+                        "endOffsets": "6065,9761"
+                    },
+                    "to": {
+                        "startLines": "3,142",
+                        "startColumns": "4,4",
+                        "startOffsets": "112,6127",
+                        "endLines": "141,232",
+                        "endColumns": "22,22",
+                        "endOffsets": "6122,9818"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\worka\\slef\\ai\\latest\\3.1.13\\Android-SDK@3.1.13.80836_20210517\\UniPlugin-Hello-AS\\DetectionModule\\build\\intermediates\\res\\merged\\release\\values\\values.xml",
+            "map": [
+                {
+                    "source": "D:\\worka\\slef\\ai\\latest\\3.1.13\\Android-SDK@3.1.13.80836_20210517\\UniPlugin-Hello-AS\\DetectionModule\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "17",
+                        "endColumns": "56",
+                        "endOffsets": "69"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "56",
+                        "endOffsets": "107"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-2\\files-2.1\\bbb4860045a017a8fa8f7962fab1adac\\drawee-1.13.0\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "2,141",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,6070",
+                        "endLines": "140,231",
+                        "endColumns": "22,22",
+                        "endOffsets": "6065,9761"
+                    },
+                    "to": {
+                        "startLines": "3,142",
+                        "startColumns": "4,4",
+                        "startOffsets": "112,6127",
+                        "endLines": "141,232",
+                        "endColumns": "22,22",
+                        "endOffsets": "6122,9818"
+                    }
+                }
+            ]
+        }
+    ]
+}

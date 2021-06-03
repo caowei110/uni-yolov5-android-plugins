@@ -1,0 +1,23 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="uni.dcloud.io.uniplugin_module"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+8-->D:\worka\slef\ai\latest\3.1.13\Android-SDK@3.1.13.80836_20210517\UniPlugin-Hello-AS\DetectionModule\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="28" />
+9-->D:\worka\slef\ai\latest\3.1.13\Android-SDK@3.1.13.80836_20210517\UniPlugin-Hello-AS\DetectionModule\src\main\AndroidManifest.xml
+10
+11    <application>
+11-->D:\worka\slef\ai\latest\3.1.13\Android-SDK@3.1.13.80836_20210517\UniPlugin-Hello-AS\DetectionModule\src\main\AndroidManifest.xml:3:1-6:15
+12        <activity
+12-->D:\worka\slef\ai\latest\3.1.13\Android-SDK@3.1.13.80836_20210517\UniPlugin-Hello-AS\DetectionModule\src\main\AndroidManifest.xml:4:1-5:85
+13            android:name="com.tencent.yolov5ncnn.NativePageActivity"
+13-->D:\worka\slef\ai\latest\3.1.13\Android-SDK@3.1.13.80836_20210517\UniPlugin-Hello-AS\DetectionModule\src\main\AndroidManifest.xml:4:11-67
+14            android:theme="@android:style/Theme.DeviceDefault.Light.NoActionBar" />
+14-->D:\worka\slef\ai\latest\3.1.13\Android-SDK@3.1.13.80836_20210517\UniPlugin-Hello-AS\DetectionModule\src\main\AndroidManifest.xml:5:5-73
+15    </application>
+16
+17</manifest>

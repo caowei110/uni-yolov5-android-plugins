@@ -1,0 +1,12 @@
+uni/dcloud/io/uniplugin_module/BuildConfig.java
+ uni.dcloud.io.uniplugin_module.BuildConfig
+com/tencent/yolov5ncnn/NativePageActivity.java
+ com.tencent.yolov5ncnn.NativePageActivity
+ com.tencent.yolov5ncnn.NativePageActivity$1
+com/tencent/yolov5ncnn/DetectionModule.java
+ com.tencent.yolov5ncnn.DetectionModule
+ com.tencent.yolov5ncnn.DetectionModule$1
+com/tencent/yolov5ncnn/YoloV5Ncnn.java
+ com.tencent.yolov5ncnn.YoloV5Ncnn
+ com.tencent.yolov5ncnn.YoloV5Ncnn$InitParams
+ com.tencent.yolov5ncnn.YoloV5Ncnn$Obj

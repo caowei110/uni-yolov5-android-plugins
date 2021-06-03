@@ -1,0 +1,27 @@
+com/HBuilder/UniPlugin/MainActivity.java
+ com.HBuilder.UniPlugin.MainActivity
+com/HBuilder/UniPlugin/databinding/FragmentHomeBinding.java
+ com.HBuilder.UniPlugin.databinding.FragmentHomeBinding
+com/HBuilder/UniPlugin/ui/home/HomeFragment.java
+ com.HBuilder.UniPlugin.ui.home.HomeFragment
+ com.HBuilder.UniPlugin.ui.home.HomeFragment$1
+com/HBuilder/UniPlugin/ui/dashboard/DashboardFragment.java
+ com.HBuilder.UniPlugin.ui.dashboard.DashboardFragment
+ com.HBuilder.UniPlugin.ui.dashboard.DashboardFragment$1
+com/HBuilder/UniPlugin/ui/dashboard/DashboardViewModel.java
+ com.HBuilder.UniPlugin.ui.dashboard.DashboardViewModel
+com/HBuilder/UniPlugin/ui/home/HomeViewModel.java
+ com.HBuilder.UniPlugin.ui.home.HomeViewModel
+com/HBuilder/UniPlugin/ui/notifications/NotificationsFragment.java
+ com.HBuilder.UniPlugin.ui.notifications.NotificationsFragment
+ com.HBuilder.UniPlugin.ui.notifications.NotificationsFragment$1
+com/HBuilder/UniPlugin/databinding/FragmentNotificationsBinding.java
+ com.HBuilder.UniPlugin.databinding.FragmentNotificationsBinding
+com/HBuilder/UniPlugin/BuildConfig.java
+ com.HBuilder.UniPlugin.BuildConfig
+com/HBuilder/UniPlugin/databinding/ActivityMainBinding.java
+ com.HBuilder.UniPlugin.databinding.ActivityMainBinding
+com/HBuilder/UniPlugin/ui/notifications/NotificationsViewModel.java
+ com.HBuilder.UniPlugin.ui.notifications.NotificationsViewModel
+com/HBuilder/UniPlugin/databinding/FragmentDashboardBinding.java
+ com.HBuilder.UniPlugin.databinding.FragmentDashboardBinding

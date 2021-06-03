@@ -1,0 +1,21 @@
+Executable : C:\Users\admin\AppData\Local\Android\Sdk\cmake\3.10.2.4988404\bin\cmake.exe
+arguments : 
+-HD:\worka\slef\ai\latest\3.1.13\Android-SDK@3.1.13.80836_20210517\UniPlugin-Hello-AS\uniplugin_module\src\main\jni
+-DCMAKE_FIND_ROOT_PATH=D:\worka\slef\ai\latest\3.1.13\Android-SDK@3.1.13.80836_20210517\UniPlugin-Hello-AS\uniplugin_module\.cxx\cmake\debug\prefab\arm64-v8a\prefab
+-DCMAKE_BUILD_TYPE=Debug
+-DCMAKE_TOOLCHAIN_FILE=C:\Users\admin\AppData\Local\Android\Sdk\ndk\21.0.6113669\build\cmake\android.toolchain.cmake
+-DANDROID_ABI=arm64-v8a
+-DANDROID_NDK=C:\Users\admin\AppData\Local\Android\Sdk\ndk\21.0.6113669
+-DANDROID_PLATFORM=android-16
+-DCMAKE_ANDROID_ARCH_ABI=arm64-v8a
+-DCMAKE_ANDROID_NDK=C:\Users\admin\AppData\Local\Android\Sdk\ndk\21.0.6113669
+-DCMAKE_EXPORT_COMPILE_COMMANDS=ON
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=D:\worka\slef\ai\latest\3.1.13\Android-SDK@3.1.13.80836_20210517\UniPlugin-Hello-AS\uniplugin_module\build\intermediates\cmake\debug\obj\arm64-v8a
+-DCMAKE_MAKE_PROGRAM=C:\Users\admin\AppData\Local\Android\Sdk\cmake\3.10.2.4988404\bin\ninja.exe
+-DCMAKE_SYSTEM_NAME=Android
+-DCMAKE_SYSTEM_VERSION=16
+-BD:\worka\slef\ai\latest\3.1.13\Android-SDK@3.1.13.80836_20210517\UniPlugin-Hello-AS\uniplugin_module\.cxx\cmake\debug\arm64-v8a
+-GNinja
+jvmArgs : 
+
+Build command args:
